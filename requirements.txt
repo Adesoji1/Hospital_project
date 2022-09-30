@@ -1,2 +1,5 @@
-pycaret
-streamlit
+numpy==1.20.3
+pandas==1.4.4
+Pillow==9.2.0
+pycaret==2.0
+streamlit==1.13.0
